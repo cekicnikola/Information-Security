@@ -1,0 +1,17 @@
+D:\poslenja\ZastitaInformacija\ZastitaInformacija\bin\Debug\ZastitaInformacija.exe.config
+D:\poslenja\ZastitaInformacija\ZastitaInformacija\bin\Debug\ZastitaInformacija.exe
+D:\poslenja\ZastitaInformacija\ZastitaInformacija\bin\Debug\ZastitaInformacija.pdb
+D:\poslenja\ZastitaInformacija\ZastitaInformacija\obj\Debug\Information Security.csproj.AssemblyReference.cache
+D:\poslenja\ZastitaInformacija\ZastitaInformacija\obj\Debug\ZastitaInformacija.Form1.resources
+D:\poslenja\ZastitaInformacija\ZastitaInformacija\obj\Debug\ZastitaInformacija.Properties.Resources.resources
+D:\poslenja\ZastitaInformacija\ZastitaInformacija\obj\Debug\Information Security.csproj.GenerateResource.cache
+D:\poslenja\ZastitaInformacija\ZastitaInformacija\obj\Debug\Information Security.csproj.CoreCompileInputs.cache
+D:\poslenja\ZastitaInformacija\ZastitaInformacija\obj\Debug\ZastitaInformacija.exe
+D:\poslenja\ZastitaInformacija\ZastitaInformacija\obj\Debug\ZastitaInformacija.pdb
+D:\poslenja\Information Security\ZastitaInformacija\obj\Debug\Information Security.csproj.AssemblyReference.cache
+D:\poslenja\Information Security\ZastitaInformacija\obj\Debug\ZastitaInformacija.Form1.resources
+D:\poslenja\Information Security\ZastitaInformacija\obj\Debug\ZastitaInformacija.Properties.Resources.resources
+D:\poslenja\Information Security\ZastitaInformacija\obj\Debug\Information Security.csproj.GenerateResource.cache
+D:\poslenja\Information Security\ZastitaInformacija\obj\Debug\Information Security.csproj.CoreCompileInputs.cache
+D:\poslenja\Information Security\ZastitaInformacija\obj\Debug\ZastitaInformacija.exe
+D:\poslenja\Information Security\ZastitaInformacija\obj\Debug\ZastitaInformacija.pdb

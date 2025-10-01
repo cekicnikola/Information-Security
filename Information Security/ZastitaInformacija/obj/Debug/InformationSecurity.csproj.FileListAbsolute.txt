@@ -1,0 +1,10 @@
+D:\poslenja\Information Security\ZastitaInformacija\obj\Debug\InformationSecurity.csproj.AssemblyReference.cache
+D:\poslenja\Information Security\ZastitaInformacija\obj\Debug\ZastitaInformacija.Form1.resources
+D:\poslenja\Information Security\ZastitaInformacija\obj\Debug\ZastitaInformacija.Properties.Resources.resources
+D:\poslenja\Information Security\ZastitaInformacija\obj\Debug\InformationSecurity.csproj.GenerateResource.cache
+D:\poslenja\Information Security\ZastitaInformacija\obj\Debug\InformationSecurity.csproj.CoreCompileInputs.cache
+D:\poslenja\Information Security\ZastitaInformacija\obj\Debug\ZastitaInformacija.exe
+D:\poslenja\Information Security\ZastitaInformacija\obj\Debug\ZastitaInformacija.pdb
+D:\poslenja\Information Security\ZastitaInformacija\bin\Debug\ZastitaInformacija.exe.config
+D:\poslenja\Information Security\ZastitaInformacija\bin\Debug\ZastitaInformacija.exe
+D:\poslenja\Information Security\ZastitaInformacija\bin\Debug\ZastitaInformacija.pdb
