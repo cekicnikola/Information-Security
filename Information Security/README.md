@@ -26,5 +26,6 @@ This project is a peer-to-peer Windows Forms chat application that allows two us
 4. In one window, enter the servers port number and click **Start** to launch the server.
 5. In another window, enter the server’s port, then click **Connect**.
 6. Type a message and (optionally) a key, then click **Send**.
-7. Messages will appear in the list box. If a key is set, messages will be encrypted. Both windows need to have same key, otherwise encryption won't work
+7. Messages will appear in the list box. If a key is set, messages will be encrypted. Both windows need to have the same key, otherwise encryption won't work
+
 
