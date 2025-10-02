@@ -177,6 +177,7 @@ namespace ZastitaInformacija
                 listener.Start();
             try
             {
+                BtnStart.Enabled = false;
                 client = await listener.AcceptTcpClientAsync();
                 if (client.Connected == true) 
                 { 
@@ -305,3 +306,4 @@ namespace ZastitaInformacija
         }
     }
 }
+
